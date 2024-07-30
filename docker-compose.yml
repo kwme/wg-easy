@@ -5,6 +5,7 @@ services:
       # ⚠️ Required:
       # Change this to your host's public address
       - WG_HOST=raspberrypilocal
+      
       # Optional:
       - PASSWORD=foobar123
       # - WG_PORT=51820
